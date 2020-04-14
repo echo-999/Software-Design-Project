@@ -1,0 +1,3 @@
+Dito ilalagay yung mga design/pages na globally included sa </br>
+
+ibang mga page. Like header/ footer/ navigation/ etc...
